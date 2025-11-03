@@ -1,0 +1,14 @@
+[
+  {
+    "factory": "Daikibo Factory Meiyo",
+    "machine_type": "Lathe_01",
+    "timestamp": "2021-05-01T00:10:00Z",
+    "status": "running"
+  },
+  {
+    "factory": "Daikibo Factory Shenzhen",
+    "machine_type": "Press_02",
+    "timestamp": "2021-05-01T00:20:00Z",
+    "status": "broken"
+  }
+]
