@@ -2,7 +2,7 @@
 
 # Daikibo Telemetry Analysis  
 ### Deloitte Virtual Internship Project  
-**By Riya Makwana – PIET MCA-AI**
+**By Riya Makwana – MCA-AI**
 
 ---
 
